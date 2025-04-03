@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TDSQueueClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+439759044ef3cbc5cf0ef6790c1fde0ae9bf72c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TDSQueueClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TDSQueueClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

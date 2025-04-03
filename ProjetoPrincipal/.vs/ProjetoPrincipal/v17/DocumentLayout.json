@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\ProjetoPrincipal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9D8F30B-BA8A-424B-8E18-7CDC2BCF4F94}|ProjetoPrincipal\\ProjetoPrincipal.csproj|c:\\users\\gabriel.cmmariano\\source\\repos\\projeto\\projetoprincipal\\projetoprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E9D8F30B-BA8A-424B-8E18-7CDC2BCF4F94}|ProjetoPrincipal\\ProjetoPrincipal.csproj|c:\\users\\gabriel\\documents\\github\\tds01\\projetoscsharp\\projetoprincipal\\projetoprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E9D8F30B-BA8A-424B-8E18-7CDC2BCF4F94}|ProjetoPrincipal\\ProjetoPrincipal.csproj|solutionrelative:projetoprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9D8F30B-BA8A-424B-8E18-7CDC2BCF4F94}|ProjetoPrincipal\\ProjetoPrincipal.csproj|c:\\users\\gabriel.cmmariano\\source\\repos\\projeto\\projetoprincipal\\projetoprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9D8F30B-BA8A-424B-8E18-7CDC2BCF4F94}|ProjetoPrincipal\\ProjetoPrincipal.csproj|c:\\users\\gabriel\\documents\\github\\tds01\\projetoscsharp\\projetoprincipal\\projetoprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9D8F30B-BA8A-424B-8E18-7CDC2BCF4F94}|ProjetoPrincipal\\ProjetoPrincipal.csproj|solutionrelative:projetoprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9D8F30B-BA8A-424B-8E18-7CDC2BCF4F94}|ProjetoPrincipal\\ProjetoPrincipal.csproj|c:\\users\\gabriel.cmmariano\\source\\repos\\projeto\\projetoprincipal\\projetoprincipal\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9D8F30B-BA8A-424B-8E18-7CDC2BCF4F94}|ProjetoPrincipal\\ProjetoPrincipal.csproj|solutionrelative:projetoprincipal\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmPrincipal.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.Designer.cs",
-              "RelativeDocumentMoniker": "ProjetoPrincipal\\FrmPrincipal.Designer.cs",
-              "ToolTip": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.Designer.cs",
-              "RelativeToolTip": "ProjetoPrincipal\\FrmPrincipal.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T11:40:35.95Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "ProjetoPrincipal\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.cs",
               "RelativeToolTip": "ProjetoPrincipal\\FrmPrincipal.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAtwIUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwIYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T11:39:51.37Z",
+              "WhenOpened": "2025-04-03T15:53:21.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "ProjetoPrincipal\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\ProjetoPrincipal\\ProjetoPrincipal\\FrmPrincipal.cs [Projeto]",
               "RelativeToolTip": "ProjetoPrincipal\\FrmPrincipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T11:01:51.56Z",
+              "WhenOpened": "2025-04-03T15:57:17.9Z",
               "EditorCaption": " [Projeto]"
             }
           ]

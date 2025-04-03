@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\TDSQueue\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\TDSQueue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1780F8AD-F1D6-44E9-AAAB-A5C030A3D81A}|TDSQueueClass\\TDSQueueClass.csproj|c:\\users\\gabriel.cmmariano\\source\\repos\\projeto\\tdsqueue\\tdsqueueclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1780F8AD-F1D6-44E9-AAAB-A5C030A3D81A}|TDSQueueClass\\TDSQueueClass.csproj|c:\\users\\gabriel\\documents\\github\\tds01\\projetoscsharp\\tdsqueue\\tdsqueueclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1780F8AD-F1D6-44E9-AAAB-A5C030A3D81A}|TDSQueueClass\\TDSQueueClass.csproj|solutionrelative:tdsqueueclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1780F8AD-F1D6-44E9-AAAB-A5C030A3D81A}|TDSQueueClass\\TDSQueueClass.csproj|c:\\users\\gabriel.cmmariano\\source\\repos\\projeto\\tdsqueue\\tdsqueueclass\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1780F8AD-F1D6-44E9-AAAB-A5C030A3D81A}|TDSQueueClass\\TDSQueueClass.csproj|c:\\users\\gabriel\\documents\\github\\tds01\\projetoscsharp\\tdsqueue\\tdsqueueclass\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1780F8AD-F1D6-44E9-AAAB-A5C030A3D81A}|TDSQueueClass\\TDSQueueClass.csproj|solutionrelative:tdsqueueclass\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899CA692-9815-42AE-B0F1-AAEB2B361698}|TDSQueueDesk\\TDSQueueDesk.csproj|c:\\users\\gabriel.cmmariano\\source\\repos\\projeto\\tdsqueue\\tdsqueuedesk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899CA692-9815-42AE-B0F1-AAEB2B361698}|TDSQueueDesk\\TDSQueueDesk.csproj|solutionrelative:tdsqueuedesk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{899CA692-9815-42AE-B0F1-AAEB2B361698}|TDSQueueDesk\\TDSQueueDesk.csproj|c:\\users\\gabriel.cmmariano\\source\\repos\\projeto\\tdsqueue\\tdsqueuedesk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{899CA692-9815-42AE-B0F1-AAEB2B361698}|TDSQueueDesk\\TDSQueueDesk.csproj|c:\\users\\gabriel\\documents\\github\\tds01\\projetoscsharp\\tdsqueue\\tdsqueuedesk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{899CA692-9815-42AE-B0F1-AAEB2B361698}|TDSQueueDesk\\TDSQueueDesk.csproj|solutionrelative:tdsqueuedesk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Banco.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\TDSQueue\\TDSQueueClass\\Banco.cs",
-              "RelativeDocumentMoniker": "TDSQueueClass\\Banco.cs",
-              "ToolTip": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\TDSQueue\\TDSQueueClass\\Banco.cs",
-              "RelativeToolTip": "TDSQueueClass\\Banco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\TDSQueue\\TDSQueueDesk\\Form1.cs",
+              "RelativeDocumentMoniker": "TDSQueueDesk\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\TDSQueue\\TDSQueueDesk\\Form1.cs [Projeto]",
+              "RelativeToolTip": "TDSQueueDesk\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:54:09.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T20:41:07.517Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\TDSQueue\\TDSQueueClass\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\TDSQueue\\TDSQueueClass\\Usuario.cs",
               "RelativeDocumentMoniker": "TDSQueueClass\\Usuario.cs",
-              "ToolTip": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\TDSQueue\\TDSQueueClass\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\TDSQueue\\TDSQueueClass\\Usuario.cs",
               "RelativeToolTip": "TDSQueueClass\\Usuario.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:50:18.251Z",
+              "WhenOpened": "2025-04-03T19:34:31.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\TDSQueue\\TDSQueueDesk\\Form1.cs",
-              "RelativeDocumentMoniker": "TDSQueueDesk\\Form1.cs",
-              "ToolTip": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\TDSQueue\\TDSQueueDesk\\Form1.cs",
-              "RelativeToolTip": "TDSQueueDesk\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\TDSQueue\\TDSQueueClass\\Banco.cs",
+              "RelativeDocumentMoniker": "TDSQueueClass\\Banco.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\TDSQueue\\TDSQueueClass\\Banco.cs*",
+              "RelativeToolTip": "TDSQueueClass\\Banco.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:40:19.432Z",
+              "WhenOpened": "2025-04-03T19:27:53.769Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\TDSQueue\\TDSQueueDesk\\Form1.cs",
-              "RelativeDocumentMoniker": "TDSQueueDesk\\Form1.cs",
-              "ToolTip": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\TDSQueue\\TDSQueueDesk\\Form1.cs [Projeto]",
-              "RelativeToolTip": "TDSQueueDesk\\Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:33:36.306Z",
-              "EditorCaption": " [Projeto]"
             }
           ]
         }

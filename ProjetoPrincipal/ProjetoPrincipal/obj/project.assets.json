@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gabriel.cmmariano\\.nuget\\packages\\": {},
+    "C:\\Users\\Gabriel\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\ProjetoPrincipal\\ProjetoPrincipal.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\ProjetoPrincipal\\ProjetoPrincipal\\ProjetoPrincipal.csproj",
       "projectName": "ProjetoPrincipal",
-      "projectPath": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\ProjetoPrincipal\\ProjetoPrincipal.csproj",
-      "packagesPath": "C:\\Users\\gabriel.cmmariano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.cmmariano\\source\\repos\\Projeto\\ProjetoPrincipal\\ProjetoPrincipal\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\ProjetoPrincipal\\ProjetoPrincipal\\ProjetoPrincipal.csproj",
+      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetosCsharp\\ProjetoPrincipal\\ProjetoPrincipal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gabriel.cmmariano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -49,9 +49,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

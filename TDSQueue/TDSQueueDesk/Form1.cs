@@ -17,5 +17,15 @@ namespace TDSQueueDesk
             txtSenha.Text = usuario.Senha;
             chkAtivo.Checked = usuario.Ativo;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtId_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

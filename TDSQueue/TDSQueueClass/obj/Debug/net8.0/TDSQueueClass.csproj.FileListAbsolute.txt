@@ -10,3 +10,16 @@ C:\Users\gabriel.cmmariano\source\repos\Projeto\TDSQueue\TDSQueueClass\obj\Debug
 C:\Users\gabriel.cmmariano\source\repos\Projeto\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.pdb
 C:\Users\gabriel.cmmariano\source\repos\Projeto\TDSQueue\TDSQueueClass\obj\Debug\net8.0\ref\TDSQueueClass.dll
 C:\Users\gabriel.cmmariano\source\repos\Projeto\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\bin\Debug\net8.0\TDSQueueClass.deps.json
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\bin\Debug\net8.0\TDSQueueClass.dll
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\bin\Debug\net8.0\TDSQueueClass.pdb
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.dll
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\refint\TDSQueueClass.dll
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\TDSQueueClass.pdb
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetosCsharp\TDSQueue\TDSQueueClass\obj\Debug\net8.0\ref\TDSQueueClass.dll

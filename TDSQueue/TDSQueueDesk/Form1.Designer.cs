@@ -61,6 +61,7 @@
             txtId.Name = "txtId";
             txtId.Size = new Size(100, 23);
             txtId.TabIndex = 1;
+            txtId.TextChanged += txtId_TextChanged;
             // 
             // label1
             // 
@@ -146,6 +147,7 @@
             Controls.Add(btnBuscar);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

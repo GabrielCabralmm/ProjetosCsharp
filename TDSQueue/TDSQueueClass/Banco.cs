@@ -7,7 +7,7 @@ namespace TDSQueueClass
         public static MySqlCommand Abrir()
         {
             MySqlCommand cmd = new();
-            string strConn = @"server=10.91.45.21;database=tdsqueuedb01;user=root;password=";
+            string strConn = @"server=127.0.0.1;database=testedb;user=root;password=";
             MySqlConnection cn = new(strConn);
             try
             {

@@ -39,6 +39,7 @@
             btnConsultarCliente = new Button();
             pnlCentral = new Panel();
             pnlMenu.SuspendLayout();
+            pnlCentral.SuspendLayout();
             SuspendLayout();
             // 
             // pnlMenu
@@ -54,9 +55,9 @@
             pnlMenu.Controls.Add(btnConsultarCliente);
             pnlMenu.Font = new Font("Rockwell", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             pnlMenu.ForeColor = SystemColors.Control;
-            pnlMenu.Location = new Point(241, 188);
+            pnlMenu.Location = new Point(214, 179);
             pnlMenu.Name = "pnlMenu";
-            pnlMenu.Size = new Size(662, 327);
+            pnlMenu.Size = new Size(663, 329);
             pnlMenu.TabIndex = 3;
             pnlMenu.TabStop = true;
             // 
@@ -183,10 +184,11 @@
             // pnlCentral
             // 
             pnlCentral.BackColor = SystemColors.Control;
+            pnlCentral.Controls.Add(pnlMenu);
             pnlCentral.Dock = DockStyle.Fill;
             pnlCentral.Location = new Point(0, 0);
             pnlCentral.Name = "pnlCentral";
-            pnlCentral.Size = new Size(1124, 702);
+            pnlCentral.Size = new Size(1091, 687);
             pnlCentral.TabIndex = 5;
             pnlCentral.Visible = false;
             // 
@@ -194,8 +196,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1124, 702);
-            Controls.Add(pnlMenu);
+            ClientSize = new Size(1091, 687);
             Controls.Add(pnlCentral);
             IsMdiContainer = true;
             Name = "FrmPrincipal";
@@ -203,6 +204,7 @@
             WindowState = FormWindowState.Maximized;
             Load += FrmPrincipal_Load;
             pnlMenu.ResumeLayout(false);
+            pnlCentral.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -215,7 +217,7 @@
         private Button btnCaixa;
         private Button btnDashBoard;
         private Button btnSair;
-        public Panel pnlCentral;
-        public Panel pnlMenu;
+        public static Panel pnlCentral;
+        public static Panel pnlMenu;
     }
 }
